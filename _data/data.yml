@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Stefanie Walter, PhD
-    tagline: Full Stack Developer
+    #tagline: Full Stack Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: stefanie.walter@tum.de
+    phone: 
+    timezone:
     citizenship:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
@@ -23,45 +23,42 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@SteWalter'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: CV.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+    #languages:
+     # title: Languages
+      #info:
+       # - idiom: English
+        #  level: Native
 
-        - idiom: French
-          level: Professional
+       # - idiom: French
+       #   level: Professional
 
-        - idiom: Spanish
-          level: Professional
+      #  - idiom: Spanish
+       #   level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+   # interests:
+    #  title: Interests
+    #  info:
+      #  - item: Climbing
+      #    link:
 
-        - item: Snowboarding
-          link:
+     #   - item: Snowboarding
+       #   link:
 
-        - item: Cooking
-          link:
+      #  - item: Cooking
+       ##   link:
 
 career-profile:
-    title: Career Profile
+    title: Research
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+       My research interests are in the area of political and science communication, while my methodological focus is on quantitative methods and computational social science with a special interest
+       in text and image analysis. Together with my team I explore how the news media report on majority and minority groups based on nationality, gender, religion, and sexual orientation and the visual
+       image of climate change on social media.
 education:
     title: Education
     info:
@@ -128,7 +125,7 @@ experiences:
             - Bullet point
             - Bullet point
 projects:
-    title: Projects
+    title: Researh Projects
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
